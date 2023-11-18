@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "José Guadalupe",
+      "apellido": "Zamudio Moreno",
+      "email": "alumnostic.utm@gmail.com",
+      "telefono": "443-614-7135",
+      "empresa": "Scio",
+      "puesto": "Full Stack",
+      "estado": true,
+      "id": 1
+    }
+  ]
+}
